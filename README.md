@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 شغّل المشروع مباشرة من المتصفح (بدون تثبيت أي شيء):
-
-[![تشغيل على Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/3moOoriiY/accountscraper/HEAD?urlpath=voila%2Frender%2Fscraper_interface.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/3moOoriiY/accountscraper/HEAD?urlpath=voila/render/scraper_interface.ipynb)
 
 ---
 
