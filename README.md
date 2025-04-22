@@ -1,4 +1,4 @@
-#scraper_interface.ipynb
+# scraper_interface.ipynb
 
 واجهة تفاعلية لسحب بيانات الحسابات من Twitter, Telegram, Reddit, TikTok باستخدام Selenium داخل Jupyter Notebook.
 
